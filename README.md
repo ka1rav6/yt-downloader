@@ -2,24 +2,24 @@
 
 A simple web app to download YouTube videos quickly and easily.
 
-## 🚀 Features
+## Features
 
 * Download videos in multiple qualities (Best, 720p, 480p)
 * Extract audio as MP3
 * Clean and minimal UI
 * Fast downloads using yt-dlp
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Streamlit
 * yt-dlp
 
-## 🌐 Live App
+## Live App
 
 https://video-yt-downloader.streamlit.app/
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -34,18 +34,18 @@ Install dependencies using uv:
 uv pip install -r requirements.txt
 ```
 
-## ▶️ Run Locally
+## ▶Run Locally
 
 ```
 streamlit run app.py
 ```
-## 📌 Usage
+## Usage
 1. Enter a YouTube URL
 2. Select video quality
 3. Choose output folder (local only)
 4. Click download
 
-## ⚠️ Notes
+## Notes
 
 * Folder selection works only in local environment
 * FFmpeg is required for audio downloads
@@ -55,6 +55,6 @@ Install FFmpeg:
 ```
 sudo apt install ffmpeg
 ```
-## 📄 License
+## License
 
 This project is for educational purposes.
