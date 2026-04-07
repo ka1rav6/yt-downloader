@@ -34,7 +34,7 @@ Install dependencies using uv:
 uv pip install -r requirements.txt
 ```
 
-## ▶Run Locally
+## Run Locally
 
 ```
 streamlit run app.py
