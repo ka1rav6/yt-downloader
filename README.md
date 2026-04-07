@@ -24,8 +24,8 @@ https://video-yt-downloader.streamlit.app/
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/ka1rav6/yt-downloader.git
+cd yt-downloader
 ```
 
 Install dependencies using uv:
